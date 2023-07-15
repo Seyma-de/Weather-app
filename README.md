@@ -5,8 +5,7 @@ This project is a simple weather app written in JavaScript. The app retrieves re
 ## Features
 
 - Retrieves the user's location and provides weather information.
-- Displays real-time weather data, including temperature, humidity, wind speed, and an illustrative icon.
-- Provides a suitable background image based on the time of day.
+- Provides an appropriate icon based on the time of day
 - User-friendly interface for easy usage.
 
 ## Usage
